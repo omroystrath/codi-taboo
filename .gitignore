@@ -1,0 +1,14 @@
+# model weights / checkpoints only
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# local environment noise (optional but recommended)
+.venv/
+.env
+__pycache__/
+*.pyc
+models/
