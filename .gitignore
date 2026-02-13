@@ -12,3 +12,12 @@ checkpoints/
 __pycache__/
 *.pyc
 models/
+
+# large training outputs
+models/
+wandb/
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+*.pth
